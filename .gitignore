@@ -1,3 +1,5 @@
 test.py
 .env
 secret.py
+__pycache__
+__pycache__/*
